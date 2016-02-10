@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452285877 source:/home/igor/PJC/PJC_zad27/main.cpp
+	<iostream>
+	<cstring>
+
