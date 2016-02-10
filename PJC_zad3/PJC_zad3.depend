@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443374102 source:/home/igor/PJC/PJC_zad3/main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+
